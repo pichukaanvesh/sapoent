@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>137539801598-ospid4rbrrdju3h9g6mu6llq532q0rt5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.137539801598-ospid4rbrrdju3h9g6mu6llq532q0rt5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB_uUF4mlC7x-IH1CG0P8MkTGvPKyVWR4M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>137539801598</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.visionet.SapientTask</string>
+	<key>PROJECT_ID</key>
+	<string>sapienttask-33a6b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sapienttask-33a6b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:137539801598:ios:01c7c6a030680d80</string>
+	<key>DATABASE_URL</key>
+	<string>https://sapienttask-33a6b.firebaseio.com</string>
+</dict>
+</plist>
